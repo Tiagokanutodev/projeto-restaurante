@@ -8,15 +8,15 @@ body
 /*Cor de fundo de tela*/
 .navbar
 {
-    background-color: #e15f41;
+    background-color: rgb(141, 141, 9);
 }
 
 
 /*Cor do botao, Cor das letras dentro do botao*/
 #cabecalho .nav .nav-link.active
 {
-    background-color: #fff;
-    color: #e15f41;
+    background-color: rgb(252, 252, 0);
+    color: #5c5c5c;
 }
 
 
@@ -26,7 +26,7 @@ body
 .navbar-brand:hover,
 .nav-cardapio .nav-link.active:hover
 {
-    color: #fff;
+    color: white;
 }
 
 
@@ -39,6 +39,7 @@ body
 .section-title
 {
     font-family: Pacifico, cursive;
+    font-size: 40px;
 }
 
 
@@ -50,19 +51,19 @@ body
 
 .text-colored
 {
-    color: #e15f41;
+    color: rgb(141, 141, 9);
 }
 
 .nav-cardapio .nav-link.active,
 #fale-conosco button
 {
-    background-color: #e15f41;
+    background-color: rgb(141, 141, 9);
     color: #fff;
 }
 
 .nav-cardapio .nav-link:hover
 {
-    color: #e15f41;
+    color: rgb(141, 141, 9);
 }
 
 .social-links li
